@@ -1,3 +1,3 @@
 # SelcukTopluluk
-ilk UI tasarımları
-![UI](https://user-images.githubusercontent.com/71128602/206770366-814ee70c-20ed-4024-8db7-bdd6cb0aca77.png)
+
+<img width="3635" alt="Frame 10" src="https://user-images.githubusercontent.com/71128602/211866645-64377f0f-d669-4cd8-85dd-a58783666e74.png">
